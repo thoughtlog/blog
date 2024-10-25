@@ -11,13 +11,32 @@
             "id": "623026c24b9a6827",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
+            }
+          },
+          {
+            "id": "2b88a9f08a9d3c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/existence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "existence"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623026c24b9a6827",
+  "active": "2b88a9f08a9d3c1c",
   "lastOpenFiles": [
-    "thoughts/existence.md",
+    "README.md",
     "Untitled.md",
+    "thoughts/existence.md",
     "readme.md.md",
     "readme.md",
     "thoughts"
